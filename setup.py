@@ -13,3 +13,4 @@ setup(
     calc=calculator.cli:calc
     '''
 )
+
